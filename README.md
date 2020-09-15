@@ -5,5 +5,5 @@
 
 ## Screenshot
 <div align=center>
-<img src='' />
+<img src='https://github.com/andylvyp/2048/blob/master/2048.jpg' />
 </div>
